@@ -1,7 +1,6 @@
 ----REDISTS----
 
 X64: https://www.nuget.org/api/v2/package/v8.redist-v140_xp-x64/7.4.288.11
-
 X86/32 bit: https://www.nuget.org/api/v2/package/v8-v140_xp-x86/7.4.288.11
 
 
